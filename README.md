@@ -8,7 +8,6 @@ This project demonstrates how to build and deploy a Machine Learning model using
 ├── Iris.csv                # Dataset
 ├── train.ipynb             # Jupyter notebook for training & analysis
 ├── app.py / main.py        # Flask/FastAPI app exposing ML model as API
-├── requirements.txt        # Python dependencies
 ├── README.md               # Project documentation
 ```
 
